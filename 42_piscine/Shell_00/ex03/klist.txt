@@ -1,0 +1,5 @@
+Credentials cache: API:3BDB24CD-6026-41D2-8B23-820347DE95DF
+        Principal: dseo@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jan  5 16:08:33 2022  Jan  6 02:08:33 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
